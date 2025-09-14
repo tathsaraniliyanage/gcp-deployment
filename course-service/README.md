@@ -8,7 +8,7 @@ This repository contains my assignment for Enterprise Cloud Architecture, demons
 
 
 ## 📹 Demo Video
-Watch the demo here: [Google Drive Link](https://drive.google.com/file/d/1f6E1iepkVv4_7O9j-_uIAH3SU5axd5BO/view?usp=sharing)
+Watch the demo here: [Click Here](https://drive.google.com/file/d/1f6E1iepkVv4_7O9j-_uIAH3SU5axd5BO/view?usp=sharing)
 
 > ⚡ Tip: Download the video for full HD quality if streaming appears blurry.
 
