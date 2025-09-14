@@ -1,7 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=60&pause=1000&center=true&vCenter=true&random=false&width=1200&height=80&lines=Course+Service" alt="Typing SVG" /></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=🎓+Cloud+Deployment+with+GCP;)](https://git.io/typing-svg)
-
+# Cloud Deployment With GCP
 
 ## 📌 Project Overview
 This repository contains my assignment for Enterprise Cloud Architecture, demonstrating the deployment of a Spring Boot application with a MySQL database hosted on Google Cloud SQL.
@@ -62,6 +59,7 @@ SHOW DATABASES;
 ```
 
 The `mysqldb` database should appear in the list.
+
 
 ### Phase 5: Spring Boot Application Integration
 
