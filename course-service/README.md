@@ -7,7 +7,7 @@
 This repository contains my assignment for Enterprise Cloud Architecture, demonstrating the deployment of a Spring Boot application with a MySQL database hosted on Google Cloud SQL.
 
 
-## 📒 Google Cloud SQL (MySQL) Setup Guide
+## 🌟 Google Cloud SQL (MySQL) Setup Guide
 
 ### Phase 1: Access Google Cloud Console
 * Navigate to: https://console.cloud.google.com/sql
@@ -73,6 +73,22 @@ spring.jpa.show-sql=true
 Launch your Spring Boot application to establish connection with the Cloud SQL database.
 
 
+## 🚀 Getting Started
 
+1. Clone this repository:
+
+```bash
+git clone https://github.com/tathsaraniliyanage/gcp-deployment.git
+```
+
+2. Modify `application-gcp.properties` with your specific database configuration.
+
+3. Run the Spring Boot application
+
+4. Open the browser and navigate to `http://localhost:8081`.
+
+
+## 🔖 License
+This project is distributed under the [MIT License](LICENSE).. 
 
 
