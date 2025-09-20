@@ -1,5 +1,11 @@
 # Cloud Deployment With GCP
 
+## ☎️ Contact Information 
+### Name : Prabodha Thathsarani
+### Student Registration Number : 2301682009
+### Email Address : prabodhathathsarani28@gmail.com
+
+
 ## 📌 Project Overview
 This repository contains my assignment for Enterprise Cloud Architecture, demonstrating the deployment of a Spring Boot application with a MySQL database hosted on Google Cloud SQL.
 
